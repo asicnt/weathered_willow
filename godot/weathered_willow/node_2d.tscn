@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://2lr5x6xdmllv"]
+
+[node name="Node2D" type="Node2D"]
+metadata/get_rekt = false
